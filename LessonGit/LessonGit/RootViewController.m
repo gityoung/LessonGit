@@ -18,11 +18,10 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view.
     self.title = @"hello";
-<<<<<<< HEAD
+
     self.view.backgroundColor = [UIColor whiteColor];
     NSLog(@"11");
-=======
->>>>>>> parent of 6caa59f... 2
+
 }
 
 - (void)didReceiveMemoryWarning {
