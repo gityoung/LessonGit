@@ -19,6 +19,7 @@
     // Do any additional setup after loading the view.
     self.title = @"hello";
     self.view.backgroundColor = [UIColor whiteColor];
+    NSLog(@"11");
 }
 
 - (void)didReceiveMemoryWarning {
